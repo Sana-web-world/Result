@@ -1,2 +1,2 @@
 # Result
-This is website to calculate the marks. This is just front end. 
+This website is use to calculate the marks. This is just front end. 
